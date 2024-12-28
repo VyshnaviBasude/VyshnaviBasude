@@ -102,22 +102,24 @@ Bio Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VyshnaviBasude&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="180px" />
 <div>
+  
 ### 📚 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyshnaviBasude&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
+  
 ### 🌈 Interactive Elements:
-
 <div align="center">
+  <h3>🌈 Interactive Elements</h3>
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-7,702-ff69b4" alt="Profile Views" height="25"/>
 </div>
 
 <div align="center">
   <h4>Connect with me:</h4>
   <a href="https://linkedin.com/in/VyshnaviBasude" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/></a>
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=github&logoColor=white)](https://vyshnavi-basude.netlify.app/)
+  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?logo=github&logoColor=white" alt="Portfolio" height="40"/></a>
 </div>
+
 ---
 
 
