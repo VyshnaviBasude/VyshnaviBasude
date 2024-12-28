@@ -33,8 +33,8 @@ AI integrations using TensorFlow.js and PyTorch.
 
 
 Bio Stats:
-😄 Pronouns: He/Him
-⚡ Fun fact: As a kid, I wanted to be a Pilot until I realized I am afraid of heights. ;)
+😄 Pronouns: She/Her
+⚡ Fun fact: I once debugged a CSS issue for three hours, only to realize the problem was a missing semicolon! 😅
 
 Certifications:
 •	Certified Salesforce Administrator
@@ -45,6 +45,15 @@ Certifications:
 
 📫 How to reach me: vbasu1@unh.newhaven.edu
 
+### 💻 Tech Stack:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40"/>
+</div>
 
 
 
