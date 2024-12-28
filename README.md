@@ -23,22 +23,21 @@ I’m passionate about building visually stunning and high-performance web appli
 
 🔭 Currently Working On:
 
-A 30-Day Frontend & AI Challenge 🧠, blending design, development, and machine learning.
-Yoga AI App
+- A 30-Day Frontend & AI Challenge 🧠, blending design, development, and machine learning.
+- Yoga AI App
 
 
 🌱 Learning Journey:
 
 Advanced React patterns.
-AI integrations using TensorFlow.js and PyTorch.
-Web3 technologies.
+- AI integrations using TensorFlow.js and PyTorch.
+- Web3 technologies.
 
 
 Bio Stats:
-😄 Pronouns: She/Her
-⚡ Fun fact: I once debugged a CSS issue for three hours, only to realize the problem was a missing semicolon! 😅
-👯 I’m looking to collaborate on Full Stack and AI/ML projects.
-
+- 😄 **Pronouns:** She/Hers
+- ⚡ **Fun fact:** I once debugged a CSS issue for three hours, only to realize the problem was a missing semicolon! 😅
+- 👯 **I’m looking to collaborate on:** Full Stack and AI/ML projects.
 
 ### 🎓 Certifications:
 
@@ -114,7 +113,7 @@ Bio Stats:
   
 ### 🌈 Interactive Elements:
 
-- **Profile Visitors:**  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VyshnaviBasude)
+ **Profile Visitors:**  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VyshnaviBasude)
 
 ### 🌐 Connect With ME:
 
