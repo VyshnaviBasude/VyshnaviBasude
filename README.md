@@ -17,33 +17,38 @@ Here are some ideas to get you started:
 
 Hi there 👋, I'm Vyshnavi Basude!
 
-🌟 Frontend Engineer | 🚀 AI Enthusiast | 🎨 Creative Coder | Full Stack Engineer
+🌟 Frontend Engineer | 🚀 AI Enthusiast | 🎨 Creative Coder |🖥️ Full Stack Engineer
 
 I’m passionate about building visually stunning and high-performance web applications. Exploring the intersection of AI and Fullstack is my current obsession!
 
 🔭 Currently Working On:
 
 A 30-Day Frontend & AI Challenge 🧠, blending design, development, and machine learning.
-Open-Source Projects for creative web experiences. Check out my latest project!
+Yoga AI App
+
 
 🌱 Learning Journey:
 
 Advanced React patterns.
 AI integrations using TensorFlow.js and PyTorch.
+Web3 technologies.
 
 
 Bio Stats:
 😄 Pronouns: She/Her
 ⚡ Fun fact: I once debugged a CSS issue for three hours, only to realize the problem was a missing semicolon! 😅
+👯 I’m looking to collaborate on Full Stack and AI/ML projects.
 
-Certifications:
-•	Certified Salesforce Administrator
-•	Certified Platform Developer I
-•	Data Structures and Algorithms in Python
-•	Certified Generative AI Professional by Oracle.
-•	Introduction to IoT
 
-📫 How to reach me: vbasu1@unh.newhaven.edu
+### 🎓 Certifications:
+
+- [Certified Salesforce Administrator](https://www.salesforce.com/trailblazer/profile)
+- [Certified Platform Developer I](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=IAFDfQsllwSM52m5MtdGwPChPZ5D+RKV0mwSiGuweKj9F3Ao5j5/jvj/SPUn3MkY)
+- [Data Structures and Algorithms in Python](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL20CS26S1PC933737)
+- [Certified Generative AI Professional by Oracle](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5096078&trackId=OCI2024GAIOCP&key=f8884be1ae503a7257b3dd8ccda5628b13978ecf)
+- [Introduction to IoT](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS65S51470349191052891)
+
+📫 How to reach me: vbasu1@unh.newhaven.edu(mailto:vbasu1@unh.newhaven.edu)
 
 ### 💻 Tech Stack:
 
@@ -96,16 +101,22 @@ Certifications:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VyshnaviBasude&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyshnaviBasude&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-</div>
 
 ### 📚 Most Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyshnaviBasude&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
+</div>
 
+### 🌈 Interactive Elements:
 
+- **Profile Visitors:**  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VyshnaviBasude)
 
+- **Connect With Me:**
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/VyshnaviBasude)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=github&logoColor=white)]([https://vyshnavi-basude.netlify.app/])
+
+---
 
 
