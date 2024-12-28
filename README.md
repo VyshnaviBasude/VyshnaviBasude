@@ -45,7 +45,7 @@ Bio Stats:
 - [Certified Generative AI Professional by Oracle](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5096078&trackId=OCI2024GAIOCP&key=f8884be1ae503a7257b3dd8ccda5628b13978ecf)
 - [Introduction to IoT](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS65S51470349191052891)
 
-📫 How to reach me: vbasu1@unh.newhaven.edu(mailto:vbasu1@unh.newhaven.edu)
+📫 How to reach me: vbasu1@unh.newhaven.edu
 
 ### 💻 Tech Stack:
 
